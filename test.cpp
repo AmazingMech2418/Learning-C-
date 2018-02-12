@@ -6,7 +6,7 @@ string txt;
 int main()
 {
   while (true) {
-    cout << "Type something. ";
+    cout << "\n" << "Type something. " << "\n";
     cin >> txt;
     cout << "You typed '" << txt << "'";
   }
